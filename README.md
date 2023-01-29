@@ -1,6 +1,6 @@
-# bilgi_yarismasi
+# Bilgi Yarışması
 
-A new Flutter project.
+A quiz created with random questions. There are few questions. You can add more questions.
 
 ## Getting Started
 
